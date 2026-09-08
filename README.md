@@ -17,13 +17,13 @@ I am a BTech Computer Science (AI & ML) student at Axis Colleges and the develop
 - **Workflow:** Git/GitHub, Docker, Linux/Terminal environments, VS Code
 
 ### 💻 Featured Projects
-* **Mitra AI** 
+* **Mitra AI**:
   An AI-powered study assistant featuring notes summarization, quiz generation, and coding help. Built with React, FastAPI, and Llama 3.3 70B.
-* **Emergency Mitra** 
+* **Emergency Mitra**: 
   An offline-capable emergency triage and resource-matching web app engineered for the Smart India Hackathon.
-* **Internship Fraud Detector** 
+* **Internship Fraud Detector**:
   A React-based web application to help students identify and flag deceptive internship listings.
-* **Axis AutoConnect** 
+* **Axis AutoConnect**:
   A web platform designed to assist college students in seamlessly coordinating local transit with auto drivers.
 
 ### 📫 Let's Connect
